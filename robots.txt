@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://haogege.eu.cc/sitemap.xml
+Sitemap: https://ziliaoku.ccwu.cc/sitemap.xml
 
 Disallow: /admin/
 Disallow: /private/
