@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://haogege.eu.cc/sitemap.xml
+
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*.json$
+Disallow: /api/
+
+Crawl-delay: 1
